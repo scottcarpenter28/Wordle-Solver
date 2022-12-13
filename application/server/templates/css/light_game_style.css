@@ -19,6 +19,7 @@ border-width: 1px;
 .guess-tile{
     width: 4rem;
     height: 4rem;
+    margin: 3px;
 }
 
 .row{
